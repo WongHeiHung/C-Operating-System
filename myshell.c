@@ -1,22 +1,3 @@
-/*
-    COMP3511 Spring 2024
-    PA1: Simplified Linux Shell (MyShell)
-
-    Your name:          Wong Hei Hung
-    Your ITSC email:    hhwongas@connect.ust.hk
-
-    Declaration:
-
-    I declare that I am not involved in plagiarism
-    I understand that both parties (i.e., students providing the codes and students copying the codes) will receive 0 marks.
-
-*/
-
-/*
-    Header files for MyShell
-    Necessary header files are included.
-    Do not include extra header files
-*/
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
