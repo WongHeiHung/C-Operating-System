@@ -1,19 +1,3 @@
-// COMP3511 Spring 2024
-// PA2: Completely Fair Scheduler
-//
-// Your name:           Wong Hei Hung
-// Your ITSC email:     hhwongas@connect.ust.hk
-//
-// Declaration:
-//
-// I declare that I am not involved in plagiarism
-// I understand that both parties (i.e., students providing the codes and students copying the codes) will receive 0 marks.
-
-
-// =======================================================================
-// Note: You can add extra variables and implement extra helper functions
-// =======================================================================
-
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
