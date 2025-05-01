@@ -1,22 +1,3 @@
-// COMP3511 Spring 2024
-// PA3: Page Replacement Algorithms
-//
-// Please use the print-related helper functions, instead of using your own printf function calls
-// The print-related helper functions are clearly defined in the skeleton code
-// The grader TA will probably use an autograder to grade this PA
-//
-// Your name:           Wong Hei Hung
-// Your ITSC email:     hhwongas@connect.ust.hk
-//
-// Declaration:
-//
-// I declare that I am not involved in plagiarism
-// I understand that both parties (i.e., students providing the codes and students copying the codes) will receive 0 marks.
-
-// ===
-// Region: Header files
-// Note: Necessary header files are included, do not include extra header files
-// ===
 #define _GNU_SOURCE
 #include <stdio.h>
 #include <stdlib.h>
